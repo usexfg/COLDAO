@@ -9,38 +9,55 @@
 Below is a list of available options for interest thru **COLD** *Banking Suite*.
  
 -----------------------------------------------------------
-(Coming Soon)
+(Available @ blockMajorVersion 10+)
 
 
-Asset #01
-## COLD 
+Asset #**00**
+
+# C0LDAO token (**C0LD**) 
 
 
-**Platform**: COLD
+**Blockchain**: C0DL3 rollup (*via*) /*zkSync Era* L2 (*via*) /*Ethereum* (L1) 
+
 
 **Contract**: TBA
 
-**Ticker** : COLD
 
-**Description**: Original asset issuance of the **COLD** *Banking Suite* governance token of COLD DAO
+**Ticker** : **C0LD**
+
+
+**Description**: Governance token for **C0LDAO** voting rights. Approve/deny proposals, new asset(s) in Fuego's **Certificate Of Ledger Deposit** (*COLD*) Income Lounge* 
+
 
 **Decimals** : 12
 
-**Initial Supply** : 20 
 
-**Total COLD Supply**: 80  (4 contract platforms in total @ 20 COLD each)
+**Genesis Supply** : 20 
 
-**Max Supply**: Dynamic. After initial total of 80 is distributed, max supply may fluctuate (mint/burn based on market conditions) above/below 80, with the purpose of becoming an inverse asset of $XFG. (COLD supply will be algorithmically managed to persuade pricing to function inversely to $XFG price)
 
-**DAO Governance** (project) : Any amount of COLD
+**Total Supply**: **80**  (4 platforms / 20 C0LD each)
 
-**DAO Governance** (monetary) : 0.1 COLD required
 
-**DAO Governance** (list new asset) : burning of 1.0 COLD required (See [goverance section](#cold-governance))
+**Max Supply**: 80 Dynamic (mint/burn based on market conditions)
 
-**Wrapped XFG (wXFG) Interest Rate**: Similar to liquidity pool rates. (wXFG/COLD, EVM_Native_Coin/COLD)
 
-**XFG Interest Rate** : as COLD and XFG are the nearly identical in supply by atomic unit (only decimal place differs) **interest is factored using a supply ratio** of 1:100000 ( 1 COLD : 100,000 $XFG  or  1 $XFG : 0.00001 COLD )
+## C0LDAO Governance 
+
+ 📬 (propose_new_asset) : requires burn total of 1.00 C0LD per proposal (See [goverance section](#cold-governance) below for more)
+
+
+ ⚖️ *Monetary* **Governance** (terms/rates) : minimum 0.1 C0LD required
+
+
+ 🗳️ *Lounge* Governance** (project) : ***Any*** amount of C0LD token required. From Fuego's Chain Treasury claims, to project branding colors.
+
+
+
+ Interest Rate for ~~(wXFG)~~ Fuego Ξmbers (HEAT) {ie burned XFG}: Likely similar to LP rates. (HEAT/C0LD, ETH/COLD)
+
+
+***XFG Interest Rate*** :  When factored using atomic units, C0LD & XFG are nearly identical in max supply (only ***decimal place*** differs) 
+  therefore, when factoring C0LD as interest on XFG principal, we begin at equal by supply ratio of 1:100,000 ( thats **1** COLD to **100,000** XFG  ||  **1** XFG to **0.00001** C0LD )
 
 ie
 
@@ -86,7 +103,7 @@ ie
 ------------------------------
 <h2 id="cold-governance">COLD Community Asset Treasury DAO | Governance</h2>
 
-COLD DAO is the governing group of the COLD protocol and token owners/members stewarding the excellence of her banking suite. 
+C0LDAO is the governing group of the COLD protocol and token owners/members stewarding the excellence of her banking suite. 
 
 Members may excercise (or delegate) their vote, **according to required holding amounts**, on a range of topics such as project branding, tokenomics, XFG yield rates, choosing the next smart contract platform(s) of the remaining COLD issuances, COLD treasury decisions, and the selection of new financial instruments to make available in COLD Banking Suite™️.
 
